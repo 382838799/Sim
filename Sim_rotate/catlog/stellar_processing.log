@@ -1,0 +1,715 @@
+2025-03-02 00:25:11,781 - INFO - 开始处理，时间: 2025-03-02 00:25:11.781908
+2025-03-02 00:25:11,806 - INFO - 从 /mnt/d/Simulation/5.0000000.csv 读取了 41 行数据
+2025-03-02 00:25:11,807 - INFO - 使用 15 个进程进行并行处理
+2025-03-02 00:25:11,832 - INFO - 处理目标: ft_02, RA: 325.1, DEC: 25.558
+2025-03-02 00:25:11,832 - INFO - 处理目标: ft_03, RA: 325.11, DEC: 25.564
+2025-03-02 00:25:11,833 - INFO - 处理目标: ft_04, RA: 325.12, DEC: 25.571
+2025-03-02 00:25:11,833 - INFO - 处理目标: ft_01, RA: 325.09000000000003, DEC: 25.551
+2025-03-02 00:25:11,833 - INFO - 处理目标: ft_05, RA: 325.13, DEC: 25.577
+2025-03-02 00:25:11,833 - INFO - 处理目标: ft_06, RA: 325.14, DEC: 25.583
+2025-03-02 00:25:11,834 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:25:11,834 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:25:11,834 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:25:11,834 - INFO - 处理目标: ft_07, RA: 325.15, DEC: 25.59
+2025-03-02 00:25:11,834 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:25:11,834 - INFO - 处理目标: ft_08, RA: 325.159, DEC: 25.596
+2025-03-02 00:25:11,834 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:25:11,834 - INFO - 处理目标: ft_09, RA: 325.169, DEC: 25.603
+2025-03-02 00:25:11,834 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:25:11,834 - INFO - 处理目标: ft_10, RA: 325.179, DEC: 25.609
+2025-03-02 00:25:11,834 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:25:11,834 - INFO - 处理目标: ft_11, RA: 325.189, DEC: 25.616
+2025-03-02 00:25:11,835 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:25:11,835 - INFO - 处理目标: ft_12, RA: 325.199, DEC: 25.622
+2025-03-02 00:25:11,835 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:25:11,835 - INFO - 处理目标: ft_13, RA: 325.209, DEC: 25.628
+2025-03-02 00:25:11,835 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:25:11,835 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:25:11,835 - INFO - 处理目标: ft_14, RA: 325.218, DEC: 25.635
+2025-03-02 00:25:11,835 - INFO - 处理目标: ft_15, RA: 325.228, DEC: 25.641
+2025-03-02 00:25:11,835 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:25:11,835 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:25:11,836 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:25:11,836 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:25:11,853 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:25:11,853 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:25:11,854 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:25:11,854 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:25:11,854 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:25:11,854 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:25:11,854 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:25:11,855 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:25:11,855 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:25:11,855 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:25:11,855 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:25:11,856 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:25:11,856 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:25:11,856 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:25:11,858 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:32:35,173 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:32:35,184 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:32:35,189 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:32:35,205 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:32:35,230 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:32:35,244 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:32:35,256 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:32:35,276 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:32:35,542 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_08.fits
+2025-03-02 00:32:35,542 - INFO - 处理时间: 443.71 秒
+2025-03-02 00:32:35,556 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_14.fits
+2025-03-02 00:32:35,556 - INFO - 处理时间: 443.72 秒
+2025-03-02 00:32:35,567 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_13.fits
+2025-03-02 00:32:35,567 - INFO - 处理时间: 443.73 秒
+2025-03-02 00:32:35,589 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_12.fits
+2025-03-02 00:32:35,589 - INFO - 处理时间: 443.75 秒
+2025-03-02 00:32:35,664 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:32:35,674 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:32:35,857 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:32:35,875 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:32:35,889 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_10.fits
+2025-03-02 00:32:35,889 - INFO - 处理时间: 444.05 秒
+2025-03-02 00:32:36,078 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_15.fits
+2025-03-02 00:32:36,079 - INFO - 处理时间: 444.24 秒
+2025-03-02 00:32:36,914 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:32:36,924 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:32:37,138 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_11.fits
+2025-03-02 00:32:37,138 - INFO - 处理时间: 445.30 秒
+2025-03-02 00:32:37,743 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:32:37,752 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:32:37,952 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_09.fits
+2025-03-02 00:32:37,952 - INFO - 处理时间: 446.12 秒
+2025-03-02 00:32:38,115 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:32:38,122 - INFO - 处理目标: ft_16, RA: 325.238, DEC: 25.648
+2025-03-02 00:32:38,123 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:32:38,135 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:32:38,154 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:32:38,157 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:32:38,160 - INFO - 处理目标: ft_17, RA: 325.248, DEC: 25.654
+2025-03-02 00:32:38,160 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:32:38,163 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:32:38,167 - INFO - 处理目标: ft_18, RA: 325.258, DEC: 25.66
+2025-03-02 00:32:38,168 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:32:38,169 - INFO - 处理目标: ft_19, RA: 325.267, DEC: 25.667
+2025-03-02 00:32:38,169 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:32:38,174 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:32:38,184 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:32:38,186 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:32:38,387 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:32:38,395 - INFO - 处理目标: ft_20, RA: 325.277, DEC: 25.673
+2025-03-02 00:32:38,396 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:32:38,406 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:32:38,549 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:32:38,554 - INFO - 处理目标: ft_21, RA: 325.287, DEC: 25.68
+2025-03-02 00:32:38,555 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:32:38,566 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:32:39,477 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:32:39,485 - INFO - 处理目标: ft_22, RA: 325.297, DEC: 25.686
+2025-03-02 00:32:39,486 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:32:39,498 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:32:40,208 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:32:40,215 - INFO - 处理目标: ft_23, RA: 325.307, DEC: 25.692
+2025-03-02 00:32:40,216 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:32:40,227 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:33:05,970 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:33:05,987 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:33:06,236 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_07.fits
+2025-03-02 00:33:06,236 - INFO - 处理时间: 474.40 秒
+2025-03-02 00:33:06,612 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:33:06,625 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:33:06,846 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_05.fits
+2025-03-02 00:33:06,846 - INFO - 处理时间: 475.01 秒
+2025-03-02 00:33:08,511 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:33:08,519 - INFO - 处理目标: ft_24, RA: 325.31600000000003, DEC: 25.699
+2025-03-02 00:33:08,520 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:33:08,532 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:33:09,108 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:33:09,114 - INFO - 处理目标: ft_25, RA: 325.326, DEC: 25.705
+2025-03-02 00:33:09,115 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:33:09,124 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:33:09,911 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:33:09,923 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:33:10,173 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_01.fits
+2025-03-02 00:33:10,173 - INFO - 处理时间: 478.34 秒
+2025-03-02 00:33:10,658 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:33:10,668 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:33:10,898 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_06.fits
+2025-03-02 00:33:10,898 - INFO - 处理时间: 479.06 秒
+2025-03-02 00:33:11,479 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:33:11,494 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:33:11,587 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:33:11,598 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:33:11,747 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_04.fits
+2025-03-02 00:33:11,747 - INFO - 处理时间: 479.91 秒
+2025-03-02 00:33:11,827 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_02.fits
+2025-03-02 00:33:11,827 - INFO - 处理时间: 479.99 秒
+2025-03-02 00:33:12,539 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:33:12,545 - INFO - 处理目标: ft_26, RA: 325.336, DEC: 25.712
+2025-03-02 00:33:12,546 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:33:12,556 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:33:13,160 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:33:13,170 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:33:13,357 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:33:13,362 - INFO - 处理目标: ft_27, RA: 325.346, DEC: 25.718
+2025-03-02 00:33:13,362 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:33:13,374 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:33:13,393 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_03.fits
+2025-03-02 00:33:13,394 - INFO - 处理时间: 481.56 秒
+2025-03-02 00:33:14,327 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:33:14,336 - INFO - 处理目标: ft_28, RA: 325.355, DEC: 25.724
+2025-03-02 00:33:14,336 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:33:14,343 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:33:14,348 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:33:14,350 - INFO - 处理目标: ft_29, RA: 325.365, DEC: 25.731
+2025-03-02 00:33:14,351 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:33:14,365 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:33:15,771 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:33:15,778 - INFO - 处理目标: ft_30, RA: 325.375, DEC: 25.737
+2025-03-02 00:33:15,778 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:33:15,791 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:39:26,116 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:26,138 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:26,418 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_18.fits
+2025-03-02 00:39:26,418 - INFO - 处理时间: 408.25 秒
+2025-03-02 00:39:28,530 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:39:28,537 - INFO - 处理目标: ft_31, RA: 325.385, DEC: 25.744
+2025-03-02 00:39:28,537 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:39:28,549 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:39:29,406 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:29,417 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:29,637 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_16.fits
+2025-03-02 00:39:29,637 - INFO - 处理时间: 411.51 秒
+2025-03-02 00:39:29,994 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:30,003 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:30,196 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_22.fits
+2025-03-02 00:39:30,196 - INFO - 处理时间: 410.71 秒
+2025-03-02 00:39:31,440 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:31,452 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:31,663 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_23.fits
+2025-03-02 00:39:31,663 - INFO - 处理时间: 411.45 秒
+2025-03-02 00:39:31,841 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:39:31,847 - INFO - 处理目标: ft_32, RA: 325.394, DEC: 25.75
+2025-03-02 00:39:31,847 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:39:31,858 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:39:32,168 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:32,187 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:32,401 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:32,410 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:32,415 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:39:32,421 - INFO - 处理目标: ft_33, RA: 325.404, DEC: 25.756
+2025-03-02 00:39:32,421 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:39:32,436 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_21.fits
+2025-03-02 00:39:32,436 - INFO - 处理时间: 413.88 秒
+2025-03-02 00:39:32,438 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:39:32,614 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_19.fits
+2025-03-02 00:39:32,614 - INFO - 处理时间: 414.45 秒
+2025-03-02 00:39:33,908 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:39:33,912 - INFO - 处理目标: ft_34, RA: 325.414, DEC: 25.763
+2025-03-02 00:39:33,913 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:39:33,925 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:39:34,088 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:34,103 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:34,318 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_20.fits
+2025-03-02 00:39:34,319 - INFO - 处理时间: 415.92 秒
+2025-03-02 00:39:34,458 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:34,467 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:34,661 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_17.fits
+2025-03-02 00:39:34,661 - INFO - 处理时间: 416.50 秒
+2025-03-02 00:39:34,715 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:39:34,720 - INFO - 处理目标: ft_35, RA: 325.423, DEC: 25.769
+2025-03-02 00:39:34,720 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:39:34,733 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:39:34,861 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:39:34,866 - INFO - 处理目标: ft_36, RA: 325.433, DEC: 25.775
+2025-03-02 00:39:34,867 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:39:34,880 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:39:36,527 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:39:36,535 - INFO - 处理目标: ft_37, RA: 325.443, DEC: 25.782
+2025-03-02 00:39:36,535 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:39:36,548 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:39:36,856 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:39:36,863 - INFO - 处理目标: ft_38, RA: 325.453, DEC: 25.788
+2025-03-02 00:39:36,863 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:39:36,873 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:39:56,777 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:56,789 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:57,028 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_25.fits
+2025-03-02 00:39:57,028 - INFO - 处理时间: 407.91 秒
+2025-03-02 00:39:58,993 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:39:59,002 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:39:59,211 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_24.fits
+2025-03-02 00:39:59,211 - INFO - 处理时间: 410.69 秒
+2025-03-02 00:39:59,227 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:39:59,234 - INFO - 处理目标: ft_39, RA: 325.462, DEC: 25.794
+2025-03-02 00:39:59,234 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:39:59,248 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:40:01,027 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:40:01,036 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:40:01,240 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_29.fits
+2025-03-02 00:40:01,240 - INFO - 处理时间: 406.89 秒
+2025-03-02 00:40:01,415 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:40:01,419 - INFO - 处理目标: ft_40, RA: 325.472, DEC: 25.801
+2025-03-02 00:40:01,420 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:40:01,433 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:40:03,425 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:40:03,430 - INFO - 处理目标: ft_41, RA: 325.322, DEC: 75.0
+2025-03-02 00:40:03,431 - INFO - 找到 40 个相关像素索引
+2025-03-02 00:40:03,447 - INFO - 找到 40 个相关像素文件
+2025-03-02 00:40:03,636 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:40:03,649 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:40:03,917 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_26.fits
+2025-03-02 00:40:03,917 - INFO - 处理时间: 411.37 秒
+2025-03-02 00:40:05,018 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:40:05,029 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:40:05,070 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:40:05,085 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:40:05,252 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_28.fits
+2025-03-02 00:40:05,253 - INFO - 处理时间: 410.92 秒
+2025-03-02 00:40:05,311 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_27.fits
+2025-03-02 00:40:05,311 - INFO - 处理时间: 411.95 秒
+2025-03-02 00:40:05,954 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:40:06,693 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:40:06,703 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:40:06,877 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_30.fits
+2025-03-02 00:40:06,877 - INFO - 处理时间: 411.10 秒
+2025-03-02 00:40:07,013 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:40:07,046 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:40:08,229 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 397, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 239, in apply_aberration_correction
+    pn[mask.flatten()] = p[mask.flatten()] / norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:41:17,271 - WARNING - 处理文件 /mnt/d/gaia/gaia_csv/pixel_206.csv.gz 时出错: Error tokenizing data. C error: Calling read(nbytes) on source failed. Try engine='python'.
+2025-03-02 00:42:06,616 - INFO - 开始处理，时间: 2025-03-02 00:42:06.616036
+2025-03-02 00:42:06,633 - INFO - 从 /mnt/d/Simulation/5.0000000.csv 读取了 41 行数据
+2025-03-02 00:42:06,635 - INFO - 使用 15 个进程进行并行处理
+2025-03-02 00:42:06,661 - INFO - 处理目标: ft_02, RA: 325.1, DEC: 25.558
+2025-03-02 00:42:06,661 - INFO - 处理目标: ft_03, RA: 325.11, DEC: 25.564
+2025-03-02 00:42:06,662 - INFO - 处理目标: ft_01, RA: 325.09000000000003, DEC: 25.551
+2025-03-02 00:42:06,662 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:42:06,662 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:42:06,662 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:42:06,662 - INFO - 处理目标: ft_06, RA: 325.14, DEC: 25.583
+2025-03-02 00:42:06,662 - INFO - 处理目标: ft_05, RA: 325.13, DEC: 25.577
+2025-03-02 00:42:06,662 - INFO - 处理目标: ft_04, RA: 325.12, DEC: 25.571
+2025-03-02 00:42:06,663 - INFO - 处理目标: ft_07, RA: 325.15, DEC: 25.59
+2025-03-02 00:42:06,663 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:42:06,663 - INFO - 处理目标: ft_08, RA: 325.159, DEC: 25.596
+2025-03-02 00:42:06,663 - INFO - 处理目标: ft_09, RA: 325.169, DEC: 25.603
+2025-03-02 00:42:06,663 - INFO - 处理目标: ft_10, RA: 325.179, DEC: 25.609
+2025-03-02 00:42:06,663 - INFO - 处理目标: ft_11, RA: 325.189, DEC: 25.616
+2025-03-02 00:42:06,663 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:42:06,663 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:42:06,663 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:42:06,663 - INFO - 找到 39 个相关像素索引
+2025-03-02 00:42:06,664 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:42:06,664 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:42:06,664 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:42:06,664 - INFO - 处理目标: ft_13, RA: 325.209, DEC: 25.628
+2025-03-02 00:42:06,664 - INFO - 处理目标: ft_14, RA: 325.218, DEC: 25.635
+2025-03-02 00:42:06,664 - INFO - 处理目标: ft_15, RA: 325.228, DEC: 25.641
+2025-03-02 00:42:06,664 - INFO - 处理目标: ft_12, RA: 325.199, DEC: 25.622
+2025-03-02 00:42:06,665 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:42:06,665 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:42:06,665 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:42:06,665 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:42:06,677 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:42:06,679 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:42:06,679 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:42:06,680 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:42:06,680 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:42:06,680 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:42:06,680 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:42:06,680 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:42:06,681 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:42:06,681 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:42:06,682 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:42:06,682 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:42:06,682 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:42:06,682 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:42:06,683 - INFO - 找到 39 个相关像素文件
+2025-03-02 00:48:50,223 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:48:50,236 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:48:50,476 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_14.fits
+2025-03-02 00:48:50,476 - INFO - 处理时间: 403.81 秒
+2025-03-02 00:48:51,598 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:48:51,611 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:48:51,832 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_11.fits
+2025-03-02 00:48:51,833 - INFO - 处理时间: 405.17 秒
+2025-03-02 00:48:52,694 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:48:52,712 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:48:52,819 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:48:52,826 - INFO - 处理目标: ft_16, RA: 325.238, DEC: 25.648
+2025-03-02 00:48:52,827 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:48:52,845 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:48:52,944 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_12.fits
+2025-03-02 00:48:52,944 - INFO - 处理时间: 406.28 秒
+2025-03-02 00:48:53,273 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:48:53,292 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:48:53,510 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:48:53,547 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:48:53,631 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_08.fits
+2025-03-02 00:48:53,631 - INFO - 处理时间: 406.97 秒
+2025-03-02 00:48:53,756 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_09.fits
+2025-03-02 00:48:53,756 - INFO - 处理时间: 407.09 秒
+2025-03-02 00:48:53,904 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:48:53,914 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:48:54,121 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_15.fits
+2025-03-02 00:48:54,122 - INFO - 处理时间: 407.46 秒
+2025-03-02 00:48:54,308 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:48:54,316 - INFO - 处理目标: ft_17, RA: 325.248, DEC: 25.654
+2025-03-02 00:48:54,317 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:48:54,327 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:48:54,573 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:48:54,583 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:48:54,814 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_13.fits
+2025-03-02 00:48:54,815 - INFO - 处理时间: 408.15 秒
+2025-03-02 00:48:55,443 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:48:55,450 - INFO - 处理目标: ft_18, RA: 325.258, DEC: 25.66
+2025-03-02 00:48:55,450 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:48:55,460 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:48:56,112 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:48:56,119 - INFO - 处理目标: ft_19, RA: 325.267, DEC: 25.667
+2025-03-02 00:48:56,119 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:48:56,136 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:48:56,213 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:48:56,219 - INFO - 处理目标: ft_20, RA: 325.277, DEC: 25.673
+2025-03-02 00:48:56,219 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:48:56,232 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:48:56,558 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:48:56,567 - INFO - 处理目标: ft_21, RA: 325.287, DEC: 25.68
+2025-03-02 00:48:56,567 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:48:56,577 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:48:57,148 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:48:57,160 - INFO - 处理目标: ft_22, RA: 325.297, DEC: 25.686
+2025-03-02 00:48:57,160 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:48:57,175 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:48:57,911 - INFO - 过滤后共 530513 颗恒星
+2025-03-02 00:48:57,923 - INFO - 过滤后数据形状: (530513, 7)
+2025-03-02 00:48:58,175 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_10.fits
+2025-03-02 00:48:58,175 - INFO - 处理时间: 411.51 秒
+2025-03-02 00:49:00,345 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (530513,3) (530513,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (530513,3) (530513,) 
+2025-03-02 00:49:00,352 - INFO - 处理目标: ft_23, RA: 325.307, DEC: 25.692
+2025-03-02 00:49:00,352 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:49:00,365 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:49:51,827 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:49:51,837 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:49:52,083 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_03.fits
+2025-03-02 00:49:52,084 - INFO - 处理时间: 465.42 秒
+2025-03-02 00:49:54,732 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:49:54,741 - INFO - 处理目标: ft_24, RA: 325.31600000000003, DEC: 25.699
+2025-03-02 00:49:54,741 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:49:54,754 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:49:56,632 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:49:56,642 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:49:56,883 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_04.fits
+2025-03-02 00:49:56,884 - INFO - 处理时间: 470.22 秒
+2025-03-02 00:49:57,056 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:49:57,066 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:49:57,308 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_06.fits
+2025-03-02 00:49:57,309 - INFO - 处理时间: 470.65 秒
+2025-03-02 00:49:59,173 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:49:59,185 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:49:59,411 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_01.fits
+2025-03-02 00:49:59,411 - INFO - 处理时间: 472.75 秒
+2025-03-02 00:49:59,756 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:49:59,765 - INFO - 处理目标: ft_25, RA: 325.326, DEC: 25.705
+2025-03-02 00:49:59,765 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:49:59,775 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:49:59,946 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:49:59,969 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:50:00,174 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:50:00,183 - INFO - 处理目标: ft_26, RA: 325.336, DEC: 25.712
+2025-03-02 00:50:00,183 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:50:00,195 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:50:00,312 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_05.fits
+2025-03-02 00:50:00,312 - INFO - 处理时间: 473.65 秒
+2025-03-02 00:50:02,017 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:50:02,023 - INFO - 处理目标: ft_27, RA: 325.346, DEC: 25.718
+2025-03-02 00:50:02,024 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:50:02,037 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:50:02,894 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:50:02,902 - INFO - 处理目标: ft_28, RA: 325.355, DEC: 25.724
+2025-03-02 00:50:02,903 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:50:02,917 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:50:03,500 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:50:03,520 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:50:03,862 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_02.fits
+2025-03-02 00:50:03,863 - INFO - 处理时间: 477.20 秒
+2025-03-02 00:50:06,072 - INFO - 过滤后共 561573 颗恒星
+2025-03-02 00:50:06,087 - INFO - 过滤后数据形状: (561573, 7)
+2025-03-02 00:50:06,339 - INFO - 已保存到 FITS 文件: /mnt/d/Simulation/results/gaia_stars_ft_07.fits
+2025-03-02 00:50:06,339 - INFO - 处理时间: 479.68 秒
+2025-03-02 00:50:06,386 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:50:06,393 - INFO - 处理目标: ft_29, RA: 325.365, DEC: 25.731
+2025-03-02 00:50:06,394 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:50:06,404 - INFO - 找到 38 个相关像素文件
+2025-03-02 00:50:08,869 - ERROR - 处理行时出错: operands could not be broadcast together with shapes (561573,3) (561573,) 
+Traceback (most recent call last):
+  File "/home/user209/Simulation/code/star_catalog03.py", line 399, in process_single_row
+    ra_new, dec_new = self.apply_aberration_correction(
+  File "/home/user209/Simulation/code/star_catalog03.py", line 261, in apply_aberration_correction
+    p2[mask.flatten()] = p2[mask.flatten()] / p2_norm[mask]
+ValueError: operands could not be broadcast together with shapes (561573,3) (561573,) 
+2025-03-02 00:50:08,876 - INFO - 处理目标: ft_30, RA: 325.375, DEC: 25.737
+2025-03-02 00:50:08,877 - INFO - 找到 38 个相关像素索引
+2025-03-02 00:50:08,889 - INFO - 找到 38 个相关像素文件
